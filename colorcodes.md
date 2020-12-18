@@ -1,5 +1,6 @@
 # Grayscale 
 Background Default: #232527
+Background Adjusted: #272b2e
 Foreground Default: #92A3A0
 Midtones 01: #445769
 
@@ -13,3 +14,5 @@ Copper: #ce8f65
 Blue Default: #54858A
 Blue Adjusted: #60b0b9
 Blue Faded: #89abaf
+Jade:  
+

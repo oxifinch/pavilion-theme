@@ -2,10 +2,14 @@
 	"name": "Pavilion Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#232527",
+		"editor.background": "#272b2e",
 		"editor.foreground": "#92A3A0",
 		"activityBarBadge.background": "#8A774A",
-		"sideBarTitle.foreground": "#232527"
+		"sideBarTitle.foreground": "#232527",
+		"editorGutter.background": "#242729",
+		"editorLineNumber.foreground": "#5e6974",
+		"editorLineNumber.activeForeground": "#92A3A0"
+		
 	},
 	"tokenColors": [
 		{
@@ -16,7 +20,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#445769"
+				"foreground": "#5e6974"
 			}
 		},
 		{
@@ -45,7 +49,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -87,7 +91,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#60b0b9"
 			}
 		},
 		{
@@ -100,7 +104,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#ccbb93"
+				"foreground": "#60b0b9"
 			}
 		},
 		{
@@ -135,7 +139,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#89abaf"
+				"foreground": "#ccbb93"
 			}
 		},
 		{
@@ -147,7 +151,11 @@
 				"entity.other.inherited-class",
 				"markup.heading",
 				"markup.inserted.git_gutter",
-				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+				"meta.var.expr.js",
+				//TODO: is this where I put all operators?
+				//"keyword.operator.assignment.js",
+				//"keyword.operator.assignment.python"
 			],
 			"settings": {
 				"foreground": "#9dc3bc"
@@ -175,7 +183,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#ce8f65"
 			}
 		},
 		{
@@ -189,7 +197,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#60b0b9"
+				"foreground": "#89abaf"
 			}
 		},
 		{
@@ -354,7 +362,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#e2bd77"
 			}
 		},
 		{
@@ -363,7 +371,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#60b0b9"
 			}
 		},
 		{
@@ -372,7 +380,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#60b0b9"
 			}
 		},
 		{
@@ -381,7 +389,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#60b0b9"
 			}
 		},
 		{
@@ -390,7 +398,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#60b0b9"
 			}
 		},
 		{
@@ -399,7 +407,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#60b0b9"
 			}
 		},
 		{
@@ -408,7 +416,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#60b0b9"
 			}
 		},
 		{
@@ -417,7 +425,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#60b0b9"
 			}
 		},
 		{
@@ -426,7 +434,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#60b0b9"
 			}
 		},
 		{
