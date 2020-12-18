@@ -1,8 +1,10 @@
-# Grayscale 
+# Grayscale/UI 
 Background Default: #232527
 Background Adjusted: #272b2e
+Background Darker: #242729
 Foreground Default: #92A3A0
-Midtones 01: #445769
+Foreground Lighter: #e0edf0
+Comments/Midtones 01: #445769
 
 # Gold
 Gold Default: #8A774A
