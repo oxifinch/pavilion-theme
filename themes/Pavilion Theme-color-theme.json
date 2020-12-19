@@ -10,7 +10,7 @@
 		"editorLineNumber.activeForeground": "#92A3A0",
 		"sideBar.background": "#242729",
 		"sideBar.foreground": "#92A3A0",
-		"sideBar.border": "#ccbb93",
+		"sideBar.border": "#445769",
 		"sideBarSectionHeader.foreground": "#92A3A0",
 		"sideBarSectionHeader.background": "#272b2e",
 		"list.activeSelectionBackground": "#445769",
@@ -20,7 +20,20 @@
 		"activityBarBadge.background": "#60b0b9",
 		"statusBar.background": "#445769",
 		"statusBar.foreground": "#92A3A0",
-		
+		"tab.activeBorder": "#e2bd77",
+		"tab.activeBackground": "#272b2e",
+		"tab.inactiveBackground": "#242729",
+		"tab.activeForeground": "#e0edf0",
+		"tab.inactiveForeground": "#92A3A0",
+		"panel.background": "#272b2e",
+		"panel.border": "#445769",
+		"panelTitle.activeBorder": "#e2bd77",
+		"panelInput.border": "#445769",
+		"terminal.background": "#242729",
+		"terminal.border": "#445769",
+		"terminal.foreground": "#92A3A0",
+		"editor.selectionBackground": "#495251",
+		"editorGroupHeader.tabsBackground": "#242729"
 	},
 	"tokenColors": [
 		{
@@ -160,7 +173,8 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#ccbb93"
+				//NOTE: Unsure if Faded Gold or Copper is best here.
+				"foreground": "#ce8f65"
 			}
 		},
 		{
@@ -174,9 +188,18 @@
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
 				"meta.var.expr.js",
-				//TODO: is this where I put all operators?
-				//"keyword.operator.assignment.js",
-				//"keyword.operator.assignment.python"
+				//NOTE: Putting operators here for now
+				"keyword.operator.arithmetic.js",
+				"keyword.operator.assignment.js",
+				"storage.type.function.arrow.js",
+				"keyword.operator.comparison.js",
+				"keyword.operator.assignment.compound.js",
+				"keyword.operator.relational.js",
+				"keyword.operator.increment.js",
+				"keyword.operator.logical.js",
+				"keyword.operator.assignment.python",
+				"keyword.operator.comparison.python",
+				"keyword.operator.arithmetic.python"
 			],
 			"settings": {
 				"foreground": "#9dc3bc"
