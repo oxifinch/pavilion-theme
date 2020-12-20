@@ -265,11 +265,22 @@
 			"scope": [
 				// NOTE: Also putting python control flow here for now.
 				"keyword.control.flow.python",
+				"keyword.control.import.python",
 				"variable.language"
 			],
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#ccbb93"
+			}
+		},
+		{
+			"name": "Language methods 2",
+			"scope": [
+				// NOTE: Same as language methods, but another color
+			],
+			"settings": {
+				"foreground": "#60b0b9",
+				"fontStyle": "italic"
 			}
 		},
 		{
