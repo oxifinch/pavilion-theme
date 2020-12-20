@@ -12,6 +12,7 @@
 		"editorGutter.background": "#242729",
 		"editorLineNumber.foreground": "#5e6974",
 		"editorLineNumber.activeForeground": "#92A3A0",
+		"editor.lineHighlightBorder": "#44576936",
 		"sideBar.background": "#242729",
 		"sideBar.foreground": "#92A3A0",
 		"sideBar.border": "#445769",
