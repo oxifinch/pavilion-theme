@@ -4,6 +4,10 @@
 	"colors": {
 		"editor.background": "#272b2e",
 		"editor.foreground": "#92A3A0",
+		"focusBorder": "#e2bd77",
+		"button.background": "#445769",
+		"button.foreground": "#e0edf0",
+		"textLink.foreground": "#60b0b9",
 		"sideBarTitle.foreground": "#232527",
 		"editorGutter.background": "#242729",
 		"editorLineNumber.foreground": "#5e6974",
@@ -258,6 +262,8 @@
 		{
 			"name": "Language methods",
 			"scope": [
+				// NOTE: Also putting python control flow here for now.
+				"keyword.control.flow.python",
 				"variable.language"
 			],
 			"settings": {
@@ -590,7 +596,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#445769"
+				"foreground": "#60b0b9"
 			}
 		},
 		{
@@ -599,7 +605,7 @@
 				"string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#445769"
+				"foreground": "#89abaf"
 			}
 		},
 		{
