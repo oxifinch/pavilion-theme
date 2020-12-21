@@ -39,6 +39,7 @@
 		"terminal.foreground": "#92A3A0",
 		"editor.selectionBackground": "#495251",
 		"editorGroupHeader.tabsBackground": "#242729"
+        // TODO: Add "meta.function-call.arguments.python"
 	},
 	"tokenColors": [
 		{
@@ -383,7 +384,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#ce8f65"
 			}
 		},
 		{
@@ -704,5 +705,15 @@
 				"foreground": "#92A3A0",
 			}
 		},
+		{
+			"name": "Rainbow10 Invalid",
+			"scope": [
+				"invalid.rainbow10"
+			],
+			"settings": {
+				"foreground": "#ac5e5e",
+				"fontStyle": "italic"
+			}
+		}
 	]
 }
