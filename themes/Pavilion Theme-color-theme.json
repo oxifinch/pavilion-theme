@@ -264,9 +264,10 @@
 		{
 			"name": "Language methods",
 			"scope": [
-				// NOTE: Also putting python control flow here for now.
+				// NOTE: Also putting python/javascript control flow here for now.
 				"keyword.control.flow.python",
 				"keyword.control.import.python",
+				"keyword.control.loop.js",
 				"variable.language"
 			],
 			"settings": {
