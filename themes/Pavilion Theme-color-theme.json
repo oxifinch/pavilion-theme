@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"editor.background": "#272b2e",
-		"editor.foreground": "#92A3A0",
+		"editor.foreground": "#a7bbb7",
 		"focusBorder": "#ccbb93",
 		"button.background": "#445769",
 		"button.foreground": "#e0edf0",
@@ -11,12 +11,12 @@
 		"sideBarTitle.foreground": "#232527",
 		"editorGutter.background": "#242729",
 		"editorLineNumber.foreground": "#5e6974",
-		"editorLineNumber.activeForeground": "#92A3A0",
+		"editorLineNumber.activeForeground": "#a7bbb7",
 		"editor.lineHighlightBorder": "#44576936",
 		"sideBar.background": "#242729",
-		"sideBar.foreground": "#92A3A0",
+		"sideBar.foreground": "#a7bbb7",
 		"sideBar.border": "#445769",
-		"sideBarSectionHeader.foreground": "#92A3A0",
+		"sideBarSectionHeader.foreground": "#a7bbb7",
 		"sideBarSectionHeader.background": "#272b2e",
 		"list.activeSelectionBackground": "#445769",
 		"activityBar.background": "#242729",
@@ -31,19 +31,19 @@
 		"tab.activeBackground": "#272b2e",
 		"tab.inactiveBackground": "#242729",
 		"tab.activeForeground": "#e0edf0",
-		"tab.inactiveForeground": "#92A3A0",
+		"tab.inactiveForeground": "#a7bbb7",
 		"panel.background": "#272b2e",
 		"panel.border": "#445769",
 		"panelTitle.activeBorder": "#ccbb93",
 		"panelInput.border": "#445769",
 		"terminal.background": "#242729",
 		"terminal.border": "#445769",
-		"terminal.foreground": "#92A3A0",
+		"terminal.foreground": "#a7bbb7",
 		"editor.selectionBackground": "#495251",
 		"editorGroupHeader.tabsBackground": "#242729",
 		"editorSuggestWidget.background": "#242729",
 		"editorSuggestWidget.border": "#445769",
-		"editorSuggestWidget.foreground": "#92A3A0",
+		"editorSuggestWidget.foreground": "#a7bbb7",
 		"editorSuggestWidget.highlightForeground": "#60b0b9",
 		"editorSuggestWidget.selectedBackground": "#1a1a1a"
         // TODO: Add "meta.function-call.arguments.python"
@@ -118,7 +118,7 @@
 				"keyword.other.substitution",
 			],
 			"settings": {
-				"foreground": "#92A3A0"
+				"foreground": "#a7bbb7"
 			}
 		},
 		{
@@ -215,7 +215,7 @@
 				"keyword.operator.arithmetic.python"
 			],
 			"settings": {
-				"foreground": "#92A3A0"
+				"foreground": "#a7bbb7"
 			}
 		},
 		{
@@ -543,7 +543,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#92A3A0"
+				"foreground": "#a7bbb7"
 			}
 		},
 		{
@@ -738,7 +738,7 @@
 				"source.shell"
 			],
 			"settings": {
-				"foreground": "#92A3A0",
+				"foreground": "#a7bbb7",
 			}
 		},
 		{

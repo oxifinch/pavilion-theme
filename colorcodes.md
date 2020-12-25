@@ -3,6 +3,7 @@ Background Default: #232527
 Background Adjusted: #272b2e
 Background Darker: #242729
 Foreground Default: #92A3A0
+Foreground Adjusted: #a7bbb7
 Foreground Lighter: #e0edf0
 Comments/Midtones 01: #445769
 White: #d1d1d1
