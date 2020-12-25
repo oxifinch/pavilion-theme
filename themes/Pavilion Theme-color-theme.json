@@ -4,7 +4,7 @@
 	"colors": {
 		"editor.background": "#272b2e",
 		"editor.foreground": "#92A3A0",
-		"focusBorder": "#e2bd77",
+		"focusBorder": "#ccbb93",
 		"button.background": "#445769",
 		"button.foreground": "#e0edf0",
 		"textLink.foreground": "#60b0b9",
@@ -25,15 +25,16 @@
 		"activityBarBadge.background": "#60b0b9",
 		"activityBarBadge.foreground": "#e0edf0",
 		"statusBar.background": "#445769",
+		"statusBar.debuggingBackground": "#89abaf",
 		"statusBar.foreground": "#e0edf0",
-		"tab.activeBorder": "#e2bd77",
+		"tab.activeBorder": "#ccbb93",
 		"tab.activeBackground": "#272b2e",
 		"tab.inactiveBackground": "#242729",
 		"tab.activeForeground": "#e0edf0",
 		"tab.inactiveForeground": "#92A3A0",
 		"panel.background": "#272b2e",
 		"panel.border": "#445769",
-		"panelTitle.activeBorder": "#e2bd77",
+		"panelTitle.activeBorder": "#ccbb93",
 		"panelInput.border": "#445769",
 		"terminal.background": "#242729",
 		"terminal.border": "#445769",
@@ -97,7 +98,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#e2bd77"
+				"foreground": "#ccbb93"
 			}
 		},
 		{
@@ -215,7 +216,7 @@
 				"keyword.operator.arithmetic.python"
 			],
 			"settings": {
-				"foreground": "#9dc3bc"
+				"foreground": "#89c8bd"
 			}
 		},
 		{
@@ -320,7 +321,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#e2bd77"
+				"foreground": "#ccbb93"
 			}
 		},
 		{
@@ -331,7 +332,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#e2bd77"
+				"foreground": "#ccbb93"
 			}
 		},
 		{
@@ -340,7 +341,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#e2bd77"
+				"foreground": "#ccbb93"
 			}
 		},
 		{
@@ -435,7 +436,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#e2bd77"
+				"foreground": "#ccbb93"
 			}
 		},
 		{
@@ -582,7 +583,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#e2bd77"
+				"foreground": "#ccbb93"
 			}
 		},
 		{
@@ -592,7 +593,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#e2bd77"
+				"foreground": "#ccbb93"
 			}
 		},
 		{
@@ -601,7 +602,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#e2bd77"
+				"foreground": "#ccbb93"
 			}
 		},
 		{
