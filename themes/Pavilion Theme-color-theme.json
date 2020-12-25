@@ -23,8 +23,9 @@
 		"activityBar.border": "#445769",
 		"activityBar.foreground": "#89abaf",
 		"activityBarBadge.background": "#60b0b9",
+		"activityBarBadge.foreground": "#e0edf0",
 		"statusBar.background": "#445769",
-		"statusBar.foreground": "#92A3A0",
+		"statusBar.foreground": "#e0edf0",
 		"tab.activeBorder": "#e2bd77",
 		"tab.activeBackground": "#272b2e",
 		"tab.inactiveBackground": "#242729",
@@ -38,7 +39,12 @@
 		"terminal.border": "#445769",
 		"terminal.foreground": "#92A3A0",
 		"editor.selectionBackground": "#495251",
-		"editorGroupHeader.tabsBackground": "#242729"
+		"editorGroupHeader.tabsBackground": "#242729",
+		"editorSuggestWidget.background": "#242729",
+		"editorSuggestWidget.border": "#445769",
+		"editorSuggestWidget.foreground": "#92A3A0",
+		"editorSuggestWidget.highlightForeground": "#60b0b9",
+		"editorSuggestWidget.selectedBackground": "#1a1a1a"
         // TODO: Add "meta.function-call.arguments.python"
 	},
 	"tokenColors": [
