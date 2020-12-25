@@ -5,6 +5,7 @@ Background Darker: #242729
 Foreground Default: #92A3A0
 Foreground Lighter: #e0edf0
 Comments/Midtones 01: #445769
+White: #d1d1d1
 
 # Gold
 Gold Default: #8A774A
@@ -16,5 +17,4 @@ Copper: #ce8f65
 Blue Default: #54858A
 Blue Adjusted: #60b0b9
 Blue Faded: #89abaf
-Jade:  
-
+Seafoam Green: #a2dfca
