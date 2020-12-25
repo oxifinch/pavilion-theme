@@ -54,10 +54,11 @@
 			}
 		},
 		{
-			"name": "Variables",
+			"name": "Variables, Object Keys",
 			"scope": [
 				"variable",
-				"string constant.other.placeholder"
+				"string constant.other.placeholder",
+				"meta.object-literal.key.js",
 			],
 			"settings": {
 				"foreground": "#60b0b9"
