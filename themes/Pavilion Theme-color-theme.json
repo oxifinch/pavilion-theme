@@ -45,7 +45,10 @@
 		"editorSuggestWidget.border": "#445769",
 		"editorSuggestWidget.foreground": "#a7bbb7",
 		"editorSuggestWidget.highlightForeground": "#60b0b9",
-		"editorSuggestWidget.selectedBackground": "#1a1a1a"
+		"editorSuggestWidget.selectedBackground": "#1a1a1a",
+		"checkbox.background": "#242729",
+		"checkbox.border": "#445769",
+		"checkbox.foreground": "#d1d1d1"
         // TODO: Add "meta.function-call.arguments.python"
 	},
 	"tokenColors": [
