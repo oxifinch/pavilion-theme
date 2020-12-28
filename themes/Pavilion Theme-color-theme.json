@@ -25,7 +25,7 @@
 		"activityBarBadge.background": "#58949b",
 		"activityBarBadge.foreground": "#e0edf0",
 		"statusBar.background": "#445769",
-		"statusBar.debuggingBackground": "#89abaf",
+		"statusBar.debuggingBackground": "#ce8f65",
 		"statusBar.foreground": "#e0edf0",
 		"tab.activeBorder": "#ccbb93",
 		"tab.activeBackground": "#272b2e",
@@ -139,7 +139,8 @@
 		{
 			"name": "HTML Text",
 			"scope": [
-				"text.html.derivative"
+				"text.html.derivative",
+				"text.html.vue-html"
 				
 			],
 			"settings": {
@@ -216,7 +217,10 @@
 				"keyword.operator.logical.js",
 				"keyword.operator.assignment.python",
 				"keyword.operator.comparison.python",
-				"keyword.operator.arithmetic.python"
+				"keyword.operator.arithmetic.python",
+				"keyword.operator.assignment.java",
+				"keyword.operator.arithmetic.java",
+				"keyword.operator.comparison.java"
 			],
 			"settings": {
 				"foreground": "#a7bbb7"
@@ -232,6 +236,8 @@
 				"punctuation.definition.string.end.python",
 				"punctuation.definition.string.begin.html",
 				"punctuation.definition.string.end.html",
+				"punctuation.definition.string.begin.java",
+				"punctuation.definition.string.end.java"
 			],
 			"settings": {
 				"foreground": "#a2dfca",
