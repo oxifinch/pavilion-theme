@@ -20,7 +20,7 @@ Recommended editor font: Ubuntu Mono
 ---
 
 ### Contribution
-The repository can be found at: **https://github.com/JStameus/pavilion-theme.git**
+The repository can be found at: **https://github.com/JStameus/pavilion-theme**
 
 Feel free to report issues, feedback and pull requests to help improve Pavilion with tweaks and additional language support. 
 
