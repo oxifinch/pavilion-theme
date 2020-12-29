@@ -1,13 +1,45 @@
 # README
-## This is the README for your extension "pavilion-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Pavilion
+Pavilion is a mellow dark theme inspired by medieval-style pavilion tents, with washed-out blue and orange and bright "gold trims".
+The theme is currently configured for HTML, CSS, JavaScript, Java, Python and Markdown files, with more language support on the way. 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Recommended editor font: Ubuntu Mono
 
-**Enjoy!**
+---
+
+### Installation
+- Open the **Extensions** sidebar in VS Code.
+- Search for *"Pavilion Theme"*
+- Click **Install**
+- Open the Command Palette with **Ctrl+Shift+P** or **⇧⌘P.**
+- Select **Preferences: Color Theme** from the drop-down menu.
+- Select **Pavilion**
+- Enjoy!
+
+---
+
+### Contribution
+The repository can be found at: **https://github.com/JStameus/pavilion-theme.git**
+
+Feel free to report issues, feedback and pull requests to help improve Pavilion with tweaks and additional language support. 
+
+And of course, make sure to follow the code of conduct. 
+
+---
+
+### Planned Features:
+**Language Support for:**
+- C#
+- PHP
+- SQL
+- Ruby
+
+**Light version**
+
+**Non-italic version**
+
+---
+
+### Personalization
+The hex codes for the colors used in this theme can be found in **colorcodes.md**. 
