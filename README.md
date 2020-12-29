@@ -39,6 +39,8 @@ And of course, make sure to follow the code of conduct.
 
 **Non-italic version**
 
+**A nicer README and extension page**
+
 ---
 
 ### Personalization
