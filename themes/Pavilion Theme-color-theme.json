@@ -157,7 +157,8 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#60b0b9"
+        "foreground": "#60b0b9",
+        "fontStyle": "italic"
 			}
 		},
 		{
@@ -356,7 +357,8 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#ccbb93"
+        "foreground": "#ccbb93",
+        "fontStyle": "italic"
 			}
 		},
 		{
