@@ -3,7 +3,7 @@
     "displayName": "Pavilion Theme",
     "description": "A mellow duo-toned theme with faded blue and gold.",
     "publisher": "JStameus",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "repository": {
         "type": "git",
         "url": "https://github.com/JStameus/pavilion-theme"
@@ -13,6 +13,14 @@
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "mellow",
+        "blue",
+        "gold",
+        "italics"
     ],
     "contributes": {
         "themes": [
