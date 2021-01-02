@@ -2,43 +2,24 @@
 	"name": "Pavilion",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#272b2e",
-		"editor.foreground": "#a7bbb7",
+		// General
 		"focusBorder": "#ccbb93",
 		"button.background": "#445769",
 		"button.foreground": "#e0edf0",
 		"textLink.foreground": "#60b0b9",
-		"sideBarTitle.foreground": "#92A3A0",
-		"editorGutter.background": "#242729",
-		"editorLineNumber.foreground": "#5e6974",
-		"editorLineNumber.activeForeground": "#a7bbb7",
-		"editor.lineHighlightBorder": "#44576936",
-		"sideBar.background": "#242729",
-		"sideBar.foreground": "#a7bbb7",
-		"sideBar.border": "#445769",
-		"sideBarSectionHeader.foreground": "#a7bbb7",
-		"sideBarSectionHeader.background": "#272b2e",
 		"list.activeSelectionBackground": "#445769",
-		"activityBar.background": "#242729",
-		"activityBar.border": "#445769",
-		"activityBar.foreground": "#89abaf",
-		"activityBarBadge.background": "#58949b",
-		"activityBarBadge.foreground": "#e0edf0",
-		"statusBar.background": "#445769",
-		"statusBar.debuggingBackground": "#ce8f65",
-		"statusBar.foreground": "#e0edf0",
-		"tab.activeBorder": "#ccbb93",
-		"tab.activeBackground": "#272b2e",
-		"tab.inactiveBackground": "#242729",
-		"tab.activeForeground": "#e0edf0",
-		"tab.inactiveForeground": "#a7bbb7",
-		"panel.background": "#272b2e",
-		"panel.border": "#445769",
-		"panelTitle.activeBorder": "#ccbb93",
-		"panelInput.border": "#445769",
-		"terminal.background": "#242729",
-		"terminal.border": "#445769",
-		"terminal.foreground": "#a7bbb7",
+		"checkbox.background": "#242729",
+		"checkbox.border": "#445769",
+		"checkbox.foreground": "#d1d1d1",
+		"textBlockQuote.background": "#272b2e",
+
+		// Editor
+		"editor.background": "#272b2e",
+		"editor.foreground": "#a7bbb7",
+		"editorGutter.background": "#242729",
+		"editor.lineHighlightBorder": "#44576936",
+		"editorLineNumber.foreground": "#5e6974",
+		"editorLineNumber.activeForeground": "#a2dfcac2",
 		"editor.selectionBackground": "#495251",
 		"editorGroupHeader.tabsBackground": "#242729",
 		"editorSuggestWidget.background": "#242729",
@@ -46,11 +27,48 @@
 		"editorSuggestWidget.foreground": "#a7bbb7",
 		"editorSuggestWidget.highlightForeground": "#60b0b9",
 		"editorSuggestWidget.selectedBackground": "#1a1a1a",
-		"checkbox.background": "#242729",
-		"checkbox.border": "#445769",
-		"checkbox.foreground": "#d1d1d1",
-		"textBlockQuote.background": "#272b2e",
-        // TODO: Add "meta.function-call.arguments.python"
+		
+		// Sidebar
+		"sideBarTitle.foreground": "#92A3A0",
+		"sideBar.background": "#242729",
+		"sideBar.foreground": "#a7bbb7",
+		"sideBar.border": "#445769",
+		"sideBarSectionHeader.foreground": "#a7bbb7",
+		"sideBarSectionHeader.background": "#272b2e",
+
+		// Activity Bar
+		"activityBar.background": "#242729",
+		"activityBar.border": "#445769",
+		"activityBar.foreground": "#89abaf",
+		"activityBarBadge.background": "#58949b",
+		"activityBarBadge.foreground": "#e0edf0",
+		
+		// Status Bar
+		"statusBar.background": "#445769",
+		"statusBar.debuggingBackground": "#ce8f65",
+		"statusBar.foreground": "#e0edf0",
+		
+		// Tabs
+		"tab.activeBorder": "#ccbb93",
+		"tab.activeBackground": "#272b2e",
+		"tab.inactiveBackground": "#242729",
+		"tab.activeForeground": "#e0edf0",
+		"tab.inactiveForeground": "#a7bbb7",
+
+		// Panel
+		"panel.background": "#272b2e",
+		"panel.border": "#445769",
+		"panelTitle.activeBorder": "#ccbb93",
+		"panelInput.border": "#445769",
+		
+		// Terminal
+		"terminal.background": "#242729",
+		"terminal.border": "#445769",
+		"terminal.foreground": "#a7bbb7",
+		"terminal.ansiBrightGreen": "#a18f64",
+		"terminal.ansiBrightBlue": "#59a0a8",
+		"terminal.ansiBrightMagenta": "#b4805d"
+		
 	},
 	"tokenColors": [
 		{
@@ -193,7 +211,6 @@
 				"keyword.other"
 			],
 			"settings": {
-				//NOTE: Unsure if Faded Gold or Copper is best here.
 				"foreground": "#ce8f65"
 			}
 		},
@@ -207,7 +224,6 @@
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
 				"meta.var.expr.js",
-				//NOTE: Putting operators here for now
 				"keyword.operator.arithmetic.js",
 				"keyword.operator.assignment.js",
 				"storage.type.function.arrow.js",

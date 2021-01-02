@@ -4,6 +4,14 @@ All notable changes to the "pavilion-theme" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.2] - 02/01 - 2020
+- Minor tweaks to UI colors
+
+- Added more theme-consistent terminal prompt colors
+- Changed current line number to seafoam green
+- Cleaned up color codes document
+- Structured theme definition file to allow for easier editing in the future
+
 ## [1.0.1] - 01/01 - 2020
 - Minor tweaks to html and functions/methods
 
