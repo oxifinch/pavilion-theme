@@ -3,7 +3,8 @@
     "displayName": "Pavilion Theme",
     "description": "A mellow duo-toned theme with faded blue and gold.",
     "publisher": "JStameus",
-    "version": "1.0.3",
+    "version": "1.0.4",
+    "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/JStameus/pavilion-theme"

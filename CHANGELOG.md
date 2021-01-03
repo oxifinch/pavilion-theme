@@ -4,6 +4,9 @@ All notable changes to the "pavilion-theme" extension will be documented in this
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.0.4] - 03/01 - 2020
+- Added icon
+
 ## [1.0.3] - 03/01 - 2020
 - Added darker "night" version
 

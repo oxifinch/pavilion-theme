@@ -1,7 +1,7 @@
 # README
 
 ## Pavilion
-Pavilion is a mellow dark theme inspired by medieval-style pavilion tents, with washed-out blue and orange and bright "gold trims".
+Pavilion is a mellow dark theme inspired by gold-trimmed pavilion, with washed-out blue and orange and bright "gold trims".
 The theme is currently configured for HTML, CSS, JavaScript, Java, Python and Markdown files, with more language support on the way. 
 
 Recommended editor font: Ubuntu Mono
