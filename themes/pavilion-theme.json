@@ -2,7 +2,6 @@
 	"name": "Pavilion",
 	"type": "dark",
 	"colors": {
-		// General
 		"focusBorder": "#ccbb93",
 		"button.background": "#445769",
 		"button.foreground": "#e0edf0",
@@ -12,8 +11,6 @@
 		"checkbox.border": "#445769",
 		"checkbox.foreground": "#d1d1d1",
 		"textBlockQuote.background": "#272b2e",
-
-		// Editor
 		"editor.background": "#272b2e",
 		"editor.foreground": "#a7bbb7",
 		"editorGutter.background": "#242729",
@@ -27,41 +24,29 @@
 		"editorSuggestWidget.foreground": "#a7bbb7",
 		"editorSuggestWidget.highlightForeground": "#60b0b9",
 		"editorSuggestWidget.selectedBackground": "#1a1a1a",
-		
-		// Sidebar
 		"sideBarTitle.foreground": "#92A3A0",
 		"sideBar.background": "#242729",
 		"sideBar.foreground": "#a7bbb7",
 		"sideBar.border": "#445769",
 		"sideBarSectionHeader.foreground": "#a7bbb7",
 		"sideBarSectionHeader.background": "#272b2e",
-
-		// Activity Bar
 		"activityBar.background": "#242729",
 		"activityBar.border": "#445769",
 		"activityBar.foreground": "#89abaf",
 		"activityBarBadge.background": "#58949b",
 		"activityBarBadge.foreground": "#e0edf0",
-		
-		// Status Bar
 		"statusBar.background": "#445769",
 		"statusBar.debuggingBackground": "#ce8f65",
 		"statusBar.foreground": "#e0edf0",
-		
-		// Tabs
 		"tab.activeBorder": "#ccbb93",
 		"tab.activeBackground": "#272b2e",
 		"tab.inactiveBackground": "#242729",
 		"tab.activeForeground": "#e0edf0",
 		"tab.inactiveForeground": "#a7bbb7",
-
-		// Panel
 		"panel.background": "#272b2e",
 		"panel.border": "#445769",
 		"panelTitle.activeBorder": "#ccbb93",
 		"panelInput.border": "#445769",
-		
-		// Terminal
 		"terminal.background": "#242729",
 		"terminal.border": "#445769",
 		"terminal.foreground": "#a7bbb7",
@@ -87,7 +72,7 @@
 			"scope": [
 				"variable",
 				"string constant.other.placeholder",
-				"meta.object-literal.key.js",
+				"meta.object-literal.key.js"
 			],
 			"settings": {
 				"foreground": "#60b0b9"
@@ -137,7 +122,7 @@
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
-				"keyword.other.substitution",
+				"keyword.other.substitution"
 			],
 			"settings": {
 				"foreground": "#a7bbb7"
@@ -162,7 +147,7 @@
 				
 			],
 			"settings": {
-				"foreground": "#d1d1d1",
+				"foreground": "#d1d1d1"
 			}
 		},
 		{
@@ -257,7 +242,7 @@
 				"punctuation.definition.string.end.java"
 			],
 			"settings": {
-				"foreground": "#a2dfca",
+				"foreground": "#a2dfca"
 			}
 		},
 		{
@@ -307,7 +292,7 @@
 				"entity.other.attribute-name.class.css"
 			],
 			"settings": {
-				"foreground": "#ccbb93",
+				"foreground": "#ccbb93"
 			}
 		},
 		{
@@ -324,7 +309,6 @@
 		{
 			"name": "Language methods",
 			"scope": [
-				// NOTE: Also putting python/javascript control flow here for now.
 				"keyword.control.flow.python",
 				"keyword.control.import.python",
 				"keyword.control.loop.js",
@@ -340,7 +324,6 @@
 		{
 			"name": "Language methods 2",
 			"scope": [
-				// NOTE: Same as language methods, but another color
 			],
 			"settings": {
 				"foreground": "#60b0b9",
@@ -707,7 +690,7 @@
 			"name": "Markdown - Raw Block Fenced",
 			"scope": [
 				"markup.raw.block.fenced.markdown",
-				"Markdown - Plain",
+				"Markdown - Plain"
 			],
 			"settings": {
 				"foreground": "#92A3A0"
@@ -716,7 +699,7 @@
 		{
 			"name": "Markdown - Fenced Bode Block",
 			"scope": [
-				"punctuation.definition.fenced.markdown",
+				"punctuation.definition.fenced.markdown"
 			],
 			"settings": {
 				"foreground":"#92A3A0"
@@ -767,7 +750,7 @@
 				"source.shell"
 			],
 			"settings": {
-				"foreground": "#a7bbb7",
+				"foreground": "#a7bbb7"
 			}
 		},
 		{

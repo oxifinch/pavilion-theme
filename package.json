@@ -25,9 +25,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Pavilion Theme",
+                "label": "Pavilion",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Pavilion Theme-color-theme.json"
+                "path": "./themes/pavilion-theme.json"
+            },
+            {
+                "label": "Pavilion Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pavilion-theme-night.json"
             }
         ]
     }
