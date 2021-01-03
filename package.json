@@ -3,7 +3,7 @@
     "displayName": "Pavilion Theme",
     "description": "A mellow duo-toned theme with faded blue and gold.",
     "publisher": "JStameus",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "repository": {
         "type": "git",
         "url": "https://github.com/JStameus/pavilion-theme"
@@ -27,12 +27,12 @@
             {
                 "label": "Pavilion",
                 "uiTheme": "vs-dark",
-                "path": "./themes/pavilion-theme.json"
+                "path": "./themes/pavilion-color-theme.json"
             },
             {
                 "label": "Pavilion Night",
                 "uiTheme": "vs-dark",
-                "path": "./themes/pavilion-theme-night.json"
+                "path": "./themes/pavilion-night-color-theme.json"
             }
         ]
     }

@@ -8,15 +8,18 @@ Background Night Darker: #15191b
 Foreground Default: #92A3A0
 Foreground Adjusted: #a7bbb7
 Foreground Lighter: #e0edf0
+Foreground Night: #8EB4B9
 
 # Other
 Comments/Midtones 01: #445769
-White: #d1d1d1
+White: #d1d1d1s
+Black: #1b1d1f
 
 # Gold/Copper
 Gold Faded: #ccbb93
+Gold Night: #c2af98
 Copper: #ce8f65
-Copper Night: #ce7a65
+Copper Night: #ce856f
 
 # Blue
 Blue Adjusted: #60b0b9

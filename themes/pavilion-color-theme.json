@@ -2,6 +2,7 @@
 	"name": "Pavilion",
 	"type": "dark",
 	"colors": {
+		// General
 		"focusBorder": "#ccbb93",
 		"button.background": "#445769",
 		"button.foreground": "#e0edf0",
@@ -11,6 +12,11 @@
 		"checkbox.border": "#445769",
 		"checkbox.foreground": "#d1d1d1",
 		"textBlockQuote.background": "#272b2e",
+		"badge.background": "#498288",
+		"badge.foreground": "#d1d1d1",
+		"list.focusBackground": "#445769",
+		"list.highlightForeground": "#6ca0b8",
+		// Editor
 		"editor.background": "#272b2e",
 		"editor.foreground": "#a7bbb7",
 		"editorGutter.background": "#242729",
@@ -24,30 +30,37 @@
 		"editorSuggestWidget.foreground": "#a7bbb7",
 		"editorSuggestWidget.highlightForeground": "#60b0b9",
 		"editorSuggestWidget.selectedBackground": "#1a1a1a",
+		"editorCodeLens.foreground": "#a7bbb7",
+		// Side Bar
 		"sideBarTitle.foreground": "#92A3A0",
 		"sideBar.background": "#242729",
 		"sideBar.foreground": "#a7bbb7",
 		"sideBar.border": "#445769",
 		"sideBarSectionHeader.foreground": "#a7bbb7",
 		"sideBarSectionHeader.background": "#272b2e",
+		// Activity Bar
 		"activityBar.background": "#242729",
 		"activityBar.border": "#445769",
 		"activityBar.foreground": "#89abaf",
-		"activityBarBadge.background": "#58949b",
+		"activityBarBadge.background": "#498288",
 		"activityBarBadge.foreground": "#e0edf0",
+		// Status Bar
 		"statusBar.background": "#445769",
 		"statusBar.debuggingBackground": "#ce8f65",
 		"statusBar.foreground": "#e0edf0",
+		// Tabs
 		"tab.activeBorder": "#ccbb93",
 		"tab.activeBackground": "#272b2e",
 		"tab.inactiveBackground": "#242729",
 		"tab.activeForeground": "#e0edf0",
 		"tab.inactiveForeground": "#a7bbb7",
+		// Panel
 		"panel.background": "#272b2e",
 		"panel.border": "#445769",
 		"panelTitle.activeBorder": "#ccbb93",
 		"panelInput.border": "#445769",
-		"terminal.background": "#242729",
+		// Terminal
+		"terminal.background": "#1b1d1f",
 		"terminal.border": "#445769",
 		"terminal.foreground": "#a7bbb7",
 		"terminal.ansiBrightGreen": "#a18f64",
@@ -713,7 +726,7 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#a7bbb7"
 			}
 		},
 		{
