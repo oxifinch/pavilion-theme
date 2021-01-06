@@ -12,7 +12,7 @@ Foreground Night: #8EB4B9
 
 # Other
 Comments/Midtones 01: #445769
-White: #d1d1d1s
+White: #d1d1d1
 Black: #1b1d1f
 
 # Gold/Copper
@@ -26,4 +26,7 @@ Blue Adjusted: #60b0b9
 Blue Faded: #89abaf
 Blue Night: #6ca0b8
 Seafoam Green: #a2dfca
-Seafoam Green Night: #76cac3
+Seafoam Green Night: #77c2b6
+
+# Purple
+Purple Default: #b894b3
