@@ -5,7 +5,7 @@
 ## Pavilion
 Pavilion is a mellow dark theme inspired by gold-trimmed pavilions, with washed-out blue and orange and bright "gold trims".
 
-This extension contains the original Pavilion theme, and a darker "night" version with less saturation and purple accents instead of orange.
+This extension contains the original Pavilion theme, and a darker "night" version with purple accents instead of orange.
 
 The theme is currently tested for HTML, CSS, JavaScript, Java, Python and Markdown files, with more language support on the way. 
 

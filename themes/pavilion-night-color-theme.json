@@ -212,7 +212,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#b894b3"
+				"foreground": "#bb82b4"
 			}
 		},
 		{
@@ -274,7 +274,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#b894b3"
+				"foreground": "#bb82b4"
 			}
 		},
 		{
@@ -283,7 +283,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#b894b3"
+				"foreground": "#bb82b4"
 			}
 		},
 		{
@@ -402,7 +402,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#b894b3"
+				"foreground": "#bb82b4"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 				"constant.character.escape"
 			],
 			"settings": {
-				"foreground": "#b894b3"
+				"foreground": "#bb82b4"
 			}
 		},
 		{
@@ -599,7 +599,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#b894b3"
+				"foreground": "#bb82b4"
 			}
 		},
 		{

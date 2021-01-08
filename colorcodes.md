@@ -30,3 +30,4 @@ Seafoam Green Night: #77c2b6
 
 # Purple
 Purple Default: #b894b3
+Purple Adjusted: #bb82b4
