@@ -4,6 +4,11 @@ All notable changes to the "pavilion-theme" extension will be documented in this
 
 ---
 
+## [1.0.7] - DD/01 - 2020
+
+### Minor JavaScript tweaks
+- Added gold italic highlighting to import statements in JavaScript
+
 ## [1.0.6] - 08/01 - 2020
 
 ### Minor color tweaks to night version

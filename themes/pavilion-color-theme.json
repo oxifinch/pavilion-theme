@@ -324,6 +324,7 @@
 			"scope": [
 				"keyword.control.flow.python",
 				"keyword.control.import.python",
+				"keyword.control.import.js",
 				"keyword.control.loop.js",
 				"keyword.control.conditional.js",
 				"keyword.control.flow.js",
