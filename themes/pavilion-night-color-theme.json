@@ -17,6 +17,10 @@
 		"list.focusBackground": "#445769",
 		"list.highlightForeground": "#6ca0b8",
 		"textLink.activeForeground": "#ff0000",
+		"input.background": "#15191b",
+		"input.border": "#445769",
+		"dropdown.background": "#15191b",
+		"dropdown.border": "#445769",
 		// Editor
 		"editor.background": "#1e2429",
 		"editor.foreground": "#8eb4b9",

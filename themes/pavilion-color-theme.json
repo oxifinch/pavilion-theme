@@ -16,6 +16,10 @@
 		"badge.foreground": "#d1d1d1",
 		"list.focusBackground": "#445769",
 		"list.highlightForeground": "#6ca0b8",
+		"input.background": "#242729",
+		"input.border": "#445769",
+		"dropdown.background": "#242729",
+		"dropdown.border": "#445769",
 		// Editor
 		"editor.background": "#272b2e",
 		"editor.foreground": "#a7bbb7",

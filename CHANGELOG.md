@@ -4,16 +4,24 @@ All notable changes to the "pavilion-theme" extension will be documented in this
 
 ---
 
-## [1.0.7] - DD/01 - 2020
+## [1.0.7] - 08/01 - 2020
 
 ### Minor JavaScript tweaks
-- Added gold italic highlighting to import statements in JavaScript
+- Added gold italic highlighting to import, export and default keywords in JavaScript
+
+### Additional UI coloring
+- Added coloring to input elements in both versions
+- Added coloring to dropdown menus in both versions
+
+---
 
 ## [1.0.6] - 08/01 - 2020
 
 ### Minor color tweaks to night version
 - Increased saturation of purple accents slightly
 - Added new adjusted color hex code "Purple Adjusted" to colorcodes.md
+
+---
 
 ## [1.0.5] - 06/01 - 2020
 
